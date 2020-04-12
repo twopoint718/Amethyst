@@ -15,3 +15,4 @@ sim/amsim
 scripts/*.jpg
 scripts/*.png
 scripts/*.bin
+*.zip
